@@ -2,3 +2,8 @@
 	path = OCA/server-tools
 	url = git@github.com:OCA/server-tools.git
 	branch = 10.0
+
+[submodule "muk-it/muk_dms"]
+	path = muk-it/muk_dms
+	url = git@github.com:muk-it/muk_dms.git
+	branch = 11.0
