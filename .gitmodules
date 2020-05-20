@@ -17,3 +17,8 @@
 	path = thomaspot/account_sepa_direct_debit_additional_app
 	url = git@github.com:thomaspot/account_sepa_direct_debit_additional_app.git
 	branch = 11.0
+
+[submodule "thomaspot/account_sepa_direct_debit_additional_app2"]
+	path = thomaspot/account_sepa_direct_debit_additional_app2
+	url = git@github.com:thomaspot/account_sepa_direct_debit_additional_app.git
+	branch = 11.0
